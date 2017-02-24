@@ -41,5 +41,6 @@
     "game of life",
     "simulation",
     "hashlife"
-  ]
+  ],
+  "main": "dist/gol.js"
 }
